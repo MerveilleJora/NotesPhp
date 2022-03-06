@@ -1,0 +1,50 @@
+***Php***
+**Code**
+Ouvrir une balise pour écrire le code php
+<?php.................?>
+
+**Variables**
+Pour déclarer ou initier une variable
+$nomdelavariable;
+
+**Boucles**
+*for*
+for(initialisation; condition; modification) {
+action;
+}
+
+*while*
+initialisation
+while (condition) {
+  action;
+  modification;
+}
+
+*do while*
+
+initialisation;
+do{
+    action;
+    modification;
+  }
+  while(condition);
+
+**Conditions**
+if(condition)
+{
+  action
+ }else{autre action}
+
+switch(condition){
+case (cas de condition): action;
+break;
+
+case (cas de condition): action;
+break;
+
+case (cas de condition): action;
+break;
+
+default: action;
+break;
+
